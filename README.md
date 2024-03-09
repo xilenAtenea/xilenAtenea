@@ -27,9 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,github,linux,mongodb,r&perline=14" />
-    <br>
-     <img src="https://skillicons.dev/icons?i=sklearn,mysql,nodejs,postman,py,vscode,powershell&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,docker,github,linux,mongodb,r,sklearn,mysql,nodejs,postman,py,vscode,powershell,aws,flask&perline=8" />
   </a>
 </p>
 
