@@ -14,7 +14,7 @@
 - A data enthusiast.
 - Last year college student.
 - Always learning new stuff <3.
-- I'm open to finding an internship gig. Check out my resume (currently sprucing it up).
+- I'm open to finding an internship gig. Check out my [resume](https://xilenatenea.onrender.com/).
 
 <br>
 
