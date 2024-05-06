@@ -25,11 +25,11 @@
 <p align="center">
 
 <!--tech stack icons-->
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,github,linux,mongodb,r,sklearn,mysql,nodejs,postman,py,vscode,powershell,aws,flask&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,docker,github,md,linux,mongodb,r,sklearn,tensorflow,mysql,nodejs,postman,py,anaconda,vscode,bash,aws,flask,kafka,notion,&perline=7" />
   </a>
-</p>
+</div>
 
 <br>
 
