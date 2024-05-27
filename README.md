@@ -11,10 +11,10 @@
 
 <br>
 
-- A data enthusiast.
-- Last year college student.
-- Always learning new stuff <3.
-- I'm open to finding an internship gig. Check out my [resume](https://xilenatenea.onrender.com/).
+- Data enthusiast.
+- Final-year college student.
+- Lifelong learner <3
+- Seeking internship opportunities. Check out my [resume](https://xilenatenea.onrender.com/)!
 
 <br>
 
