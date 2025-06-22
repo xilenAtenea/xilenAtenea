@@ -7,7 +7,7 @@
 
 <!-- about me section -->
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25jZ201MHhrcjIxMDlmZzB3OHZ3eG5waTZ2bWZkOW9nYTRmYTZhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aufjKNUhiHKAPeCNlk/giphy.gif" width ="25"><b> About me</b>
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies</b>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ2M3BiZDFzNHZraThkcDdycm95NGc5Y2wybGp4dHF4NXV2bXV4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUjBfq5licXwoqo87Z/giphy.gif" width ="25"><b> Technologies</b>
 
 <br>
 
@@ -27,16 +27,14 @@
 <!--tech stack icons-->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,github,md,linux,mongodb,r,sklearn,tensorflow,mysql,nodejs,postman,py,anaconda,vscode,bash,aws,flask,kafka,notion,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,docker,github,md,linux,mongodb,r,sklearn,tensorflow,mysql,nodejs,postman,py,anaconda,vscode,bash,aws,flask,kafka,notion,supabase,&perline=7" />
   </a>
 </div>
 
 <br>
 
 <!-- connect with me -->
-
-## <b> Let's Connect!!</b>
-
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lsanBjYzZrMDdvcmQ2M29idjJrNHo5d2NjeHp6YnQzN3VpMGYzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65qzUZckzeWG1wugLW/giphy.gif" width ="25"><b> Let's Connect</b>
 <br>
 <div align='left'>
 
