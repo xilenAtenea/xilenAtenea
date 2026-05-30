@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there, I'm Xilena Atenea </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- welcome gif -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Data%20Science%20and%20AI%20Engineer%20(under%20training)..&hearts;++;Welcome%20to%20my%20repository...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Associate%20Data%20Analyst&hearts;++;Welcome%20to%20my%20repository...<3"></a>
 </p>
 <br>
 
