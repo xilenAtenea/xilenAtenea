@@ -12,8 +12,7 @@
 <br>
 
 - Data enthusiast.
-- Final-year college student.
-- Lifelong learner <3
+- Lifelong learner.
 - Seeking internship opportunities. Check out my [resume](https://xilenatenea.onrender.com/)!
 
 <br>
