@@ -1,54 +1,94 @@
-<h1 align="center"><b>Hi there, I'm Xilena Atenea </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- welcome gif -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Associate%20Data%20Analyst&hearts;++;Welcome%20to%20my%20repository...<3"></a>
-</p>
-<br>
-
-<!-- about me section -->
-
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25jZ201MHhrcjIxMDlmZzB3OHZ3eG5waTZ2bWZkOW9nYTRmYTZhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aufjKNUhiHKAPeCNlk/giphy.gif" width ="25"><b> About me</b>
-
-<br>
-
-- Data enthusiast.
-- Lifelong learner.
-- Seeking internship opportunities. Check out my [resume](https://xilenatenea.onrender.com/)!
-
-<br>
-
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ2M3BiZDFzNHZraThkcDdycm95NGc5Y2wybGp4dHF4NXV2bXV4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUjBfq5licXwoqo87Z/giphy.gif" width ="25"><b> Technologies</b>
-
-<br>
-
-<p align="center">
-
-<!--tech stack icons-->
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,docker,github,md,linux,mongodb,r,sklearn,tensorflow,mysql,nodejs,postman,py,anaconda,vscode,bash,aws,flask,kafka,notion,supabase,&perline=7" />
-  </a>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" />
+
+### Data and Artificial Intelligence Engineer
+
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Pipelines+%2B+Automation+%2B+LLMs;Turning+complex+data+into+clear+decisions;Currently%3A+Associate+Data+Analyst+%40+Sonatype" alt="Typing SVG" /></a>
+
+[![Resume](https://img.shields.io/badge/Resume-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://xilenatenea.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atenea-rojas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atenea.salazar0114@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xilenAtenea)
+
 </div>
 
 <br>
 
-<!-- connect with me -->
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lsanBjYzZrMDdvcmQ2M29idjJrNHo5d2NjeHp6YnQzN3VpMGYzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65qzUZckzeWG1wugLW/giphy.gif" width ="25"><b> Let's Connect</b>
-<br>
-<div align='left'>
+## <img width="22" height="22" src="assets/icons/header-about.svg" align="center" alt=""/> About Me
 
-<ul>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/atenea-rojas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<!--<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>-->
-<a href="https://discordapp.com/users/558813893422612541" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
+- 🎯 **Data and Artificial Intelligence Engineer** with hands-on experience across data pipelines, automation, LLMs, and BI-focused visualization.
+- 💼 Currently an **Associate Data Analyst at Sonatype**, analyzing large-scale usage data to support abuse detection and data-driven decision making.
+- 🛠️ Background spans ETL pipeline development, Retrieval-Augmented Generation chatbots, prompt engineering, and dashboarding with Looker & Databricks.
+- 🎤 Proven leadership organizing technical events and consulting on data-driven solutions for creative industries.
+- 🎓 **Data and Artificial Intelligence Engineering** graduate from Universidad Autónoma de Occidente — GPA 3.76/4.0, Academic Excellence Award (Top GPA) in 2023-03 and 2024-03.
+- 📄 Check out my full [resume](https://xilenatenea.onrender.com/) for the complete picture.
 
 <br>
+
+## <img width="22" height="22" src="assets/icons/header-education.svg" align="center" alt=""/> Education
+
+**Data and Artificial Intelligence Engineering**
+Universidad Autónoma de Occidente · 2021 – 2025
+- GPA: 3.76 / 4.0
+- 🏅 Academic Excellence Award — Top GPA in 2023-03 and 2024-03
+
+<br>
+
+## <img width="22" height="22" src="assets/icons/header-languages.svg" align="center" alt=""/> Languages
+
+- 🇬🇧 English — C1
+- 🇪🇸 Spanish — Native
+
+<br>
+
+## <img width="22" height="22" src="assets/icons/header-techstack.svg" align="center" alt=""/> Tech Stack
+
+<div align="center">
+  <img width="48" height="48" src="assets/icons/git.svg" title="Git" alt="Git" />
+  <img width="48" height="48" src="assets/icons/postgres.svg" title="PostgreSQL" alt="PostgreSQL" />
+  <img width="48" height="48" src="assets/icons/docker.svg" title="Docker" alt="Docker" />
+  <img width="48" height="48" src="assets/icons/github.svg" title="GitHub" alt="GitHub" />
+  <img width="48" height="48" src="assets/icons/md.svg" title="Markdown" alt="Markdown" />
+  <img width="48" height="48" src="assets/icons/linux.svg" title="Linux" alt="Linux" />
+  <img width="48" height="48" src="assets/icons/mongodb.svg" title="MongoDB" alt="MongoDB" />
+  <br/>
+  <img width="48" height="48" src="assets/icons/r.svg" title="R" alt="R" />
+  <img width="48" height="48" src="assets/icons/sklearn.svg" title="scikit-learn" alt="scikit-learn" />
+  <img width="48" height="48" src="assets/icons/tensorflow.svg" title="TensorFlow" alt="TensorFlow" />
+  <img width="48" height="48" src="assets/icons/mysql.svg" title="MySQL" alt="MySQL" />
+  <img width="48" height="48" src="assets/icons/nodejs.svg" title="Node.js" alt="Node.js" />
+  <img width="48" height="48" src="assets/icons/postman.svg" title="Postman" alt="Postman" />
+  <img width="48" height="48" src="assets/icons/py.svg" title="Python" alt="Python" />
+  <br/>
+  <img width="48" height="48" src="assets/icons/anaconda.svg" title="Anaconda" alt="Anaconda" />
+  <img width="48" height="48" src="assets/icons/vscode.svg" title="VS Code" alt="VS Code" />
+  <img width="48" height="48" src="assets/icons/bash.svg" title="Bash" alt="Bash" />
+  <img width="48" height="48" src="assets/icons/aws.svg" title="AWS" alt="AWS" />
+  <img width="48" height="48" src="assets/icons/flask.svg" title="Flask" alt="Flask" />
+  <img width="48" height="48" src="assets/icons/kafka.svg" title="Kafka" alt="Kafka" />
+  <img width="48" height="48" src="assets/icons/notion.svg" title="Notion" alt="Notion" />
+  <br/>
+  <img width="48" height="48" src="assets/icons/supabase.svg" title="Supabase" alt="Supabase" />
+  <img width="48" height="48" src="assets/icons/databricks.svg" title="Databricks" alt="Databricks" />
+  <img width="48" height="48" src="assets/icons/looker.svg" title="Looker" alt="Looker" />
+</div>
+
+<br>
+
+## <img width="22" height="22" src="assets/icons/header-connect.svg" align="center" alt=""/> Let's Connect
+
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/Resume-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://xilenatenea.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atenea-rojas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atenea.salazar0114@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xilenAtenea)
+
+</div>
 
 ---
 
-Credit: [durgeshsamariya and all contributors](https://github.com/durgeshsamariya)
+<div align="center">
+<sub>Thanks for stopping by — see the full <a href="https://xilenatenea.onrender.com/">resume</a> for more details.</sub>
+</div>
