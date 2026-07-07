@@ -18,20 +18,10 @@
 ## <img width="22" height="22" src="assets/icons/header-about.svg" align="center" alt=""/> About Me
 
 - **Data and Artificial Intelligence Engineer** with hands-on experience across data pipelines, automation, LLMs, and BI-focused visualization.
-- Currently a **MSITM studen in the University of Texas at Austin**.
+- Currently a **MSITM student in The University of Texas at Austin**.
 - Background spans ETL pipeline development, Retrieval-Augmented Generation chatbots, prompt engineering, and dashboarding with Looker & Databricks.
 - Proven leadership organizing technical events and consulting on data-driven solutions for creative industries.
-- **Data and Artificial Intelligence Engineering** graduate from Universidad Autónoma de Occidente — GPA 3.76/4.0, Academic Excellence Award (Top GPA) in 2023-03 and 2024-03.
 - Check out my full [resume](https://xilenatenea.onrender.com/) for the complete picture.
-
-<br>
-
-## <img width="22" height="22" src="assets/icons/header-education.svg" align="center" alt=""/> Education
-
-**Data and Artificial Intelligence Engineering**
-Universidad Autónoma de Occidente · 2021 – 2025
-- 🏅 Academic Excellence Award — Top GPA in 2023-03 and 2024-03
-- Relevant courses: Artificial Intelligence, Data Analytics, ETL, Data Warehousing
 
 <br>
 
