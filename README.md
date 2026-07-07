@@ -18,7 +18,7 @@
 ## <img width="22" height="22" src="assets/icons/header-about.svg" align="center" alt=""/> About Me
 
 - **Data and Artificial Intelligence Engineer** with hands-on experience across data pipelines, automation, LLMs, and BI-focused visualization.
-- Currently a **MSITM student in The University of Texas at Austin**.
+- Currently a **[MSITM](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-it-and-management/) student in The University of Texas at Austin**.
 - Background spans ETL pipeline development, Retrieval-Augmented Generation chatbots, prompt engineering, and dashboarding with Looker & Databricks.
 - Proven leadership organizing technical events and consulting on data-driven solutions for creative industries.
 - Check out my full [resume](https://xilenatenea.onrender.com/) for the complete picture.
