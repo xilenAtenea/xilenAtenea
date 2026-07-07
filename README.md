@@ -4,7 +4,7 @@
 
 ### Data and Artificial Intelligence Engineer
 
-<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Pipelines+%2B+Automation+%2B+LLMs;Turning+complex+data+into+clear+decisions;Currently%3A+Associate+Data+Analyst+%40+Sonatype" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Pipelines+%2B+Automation+%2B+LLMs;Turning+complex+data+into+clear+decisions" alt="Typing SVG" /></a>
 
 [![Resume](https://img.shields.io/badge/Resume-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://xilenatenea.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atenea-rojas/)
